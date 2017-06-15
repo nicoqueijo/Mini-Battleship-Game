@@ -210,9 +210,10 @@
             // 
             // start_button
             // 
+            this.start_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.start_button.Location = new System.Drawing.Point(198, 407);
             this.start_button.Name = "start_button";
-            this.start_button.Size = new System.Drawing.Size(88, 29);
+            this.start_button.Size = new System.Drawing.Size(88, 34);
             this.start_button.TabIndex = 16;
             this.start_button.Text = "Start";
             this.start_button.UseVisualStyleBackColor = true;
@@ -220,10 +221,12 @@
             // 
             // game_status_label
             // 
-            this.game_status_label.Location = new System.Drawing.Point(167, 364);
+            this.game_status_label.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.game_status_label.Location = new System.Drawing.Point(86, 368);
             this.game_status_label.Name = "game_status_label";
-            this.game_status_label.Size = new System.Drawing.Size(156, 26);
+            this.game_status_label.Size = new System.Drawing.Size(318, 26);
             this.game_status_label.TabIndex = 17;
+            this.game_status_label.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 

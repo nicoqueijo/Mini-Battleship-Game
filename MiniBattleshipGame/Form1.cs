@@ -24,8 +24,8 @@ namespace MiniBattleshipGame
         private Random rand = new Random();
         private Label[,] boardLabels;
         private int[,] boardLabelsStatus;
-        private int moves = 0;
-        private int hits = 0;
+        private int moves;
+        private int hits;
 
         public Form1()
         {
