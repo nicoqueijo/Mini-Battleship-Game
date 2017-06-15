@@ -1,0 +1,9 @@
+c:\users\nicoq\documents\visual studio 2017\Projects\MiniBattleshipGame\MiniBattleshipGame\bin\Debug\MiniBattleshipGame.exe.config
+c:\users\nicoq\documents\visual studio 2017\Projects\MiniBattleshipGame\MiniBattleshipGame\bin\Debug\MiniBattleshipGame.exe
+c:\users\nicoq\documents\visual studio 2017\Projects\MiniBattleshipGame\MiniBattleshipGame\bin\Debug\MiniBattleshipGame.pdb
+c:\users\nicoq\documents\visual studio 2017\Projects\MiniBattleshipGame\MiniBattleshipGame\obj\Debug\MiniBattleshipGame.csprojResolveAssemblyReference.cache
+c:\users\nicoq\documents\visual studio 2017\Projects\MiniBattleshipGame\MiniBattleshipGame\obj\Debug\MiniBattleshipGame.Form1.resources
+c:\users\nicoq\documents\visual studio 2017\Projects\MiniBattleshipGame\MiniBattleshipGame\obj\Debug\MiniBattleshipGame.Properties.Resources.resources
+c:\users\nicoq\documents\visual studio 2017\Projects\MiniBattleshipGame\MiniBattleshipGame\obj\Debug\MiniBattleshipGame.csproj.GenerateResource.Cache
+c:\users\nicoq\documents\visual studio 2017\Projects\MiniBattleshipGame\MiniBattleshipGame\obj\Debug\MiniBattleshipGame.exe
+c:\users\nicoq\documents\visual studio 2017\Projects\MiniBattleshipGame\MiniBattleshipGame\obj\Debug\MiniBattleshipGame.pdb
