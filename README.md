@@ -9,4 +9,7 @@ a different shade of red. Water is obviously displayed by blue. Undiscovered fie
 The user can click on each of the labels, which will change their background color depending on whether 
 there’s a ship or just water under it. The game finishes when the player has uncovered all the ships.
 
+![](screenshots/screenshot1.PNG "New game")
+![](screenshots/screenshot2.PNG "Game in progress")
+![](screenshots/screenshot3.PNG "Game won")
 
